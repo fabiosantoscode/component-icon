@@ -1,0 +1,31 @@
+@import "index.css";
+
+.Icon.rounded {
+  border-radius: 50%;
+  padding: 0;
+}
+
+.icon {
+  font-size: 3.5em;
+}
+
+@import "backgrounds/close.css";
+@import "backgrounds/down.css";
+@import "backgrounds/economist-small.css";
+@import "backgrounds/economist.css";
+@import "backgrounds/facebook.css";
+@import "backgrounds/googleplus.css";
+@import "backgrounds/hamburger.css";
+@import "backgrounds/home.css";
+@import "backgrounds/left.css";
+@import "backgrounds/linkedin.css";
+@import "backgrounds/magnifier.css";
+@import "backgrounds/mail.css";
+@import "backgrounds/right.css";
+@import "backgrounds/rss.css";
+@import "backgrounds/share.css";
+@import "backgrounds/twitter.css";
+@import "backgrounds/up.css";
+@import "backgrounds/user.css";
+@import "backgrounds/whatsapp.css";
+@import "backgrounds/worldif.css";
